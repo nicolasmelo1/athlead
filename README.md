@@ -32,8 +32,7 @@ Essas tarefas não serão realizadas necessariamente em ordem
 - [X] Configurar o ambiente de front-end com **Next.js**
 - [X] Configurar o ambiente de mobile com **React Native**
 - [ ] Configurar ambiente de código compartilhado entre o React Native e o Next.js
-    - [ ] Habilitar Hot Reload quando uma alteração é feita na pasta shared.
+    - [ ] Habilitar Hot Reload quando uma alteração é feita na pasta `shared`.
     - [ ] Documentar como executar cada projeto individualmente.
-    - [ ] 
 - [ ] Definir dominios do sistema utilizando-se dos conceitos de [Domain Driven Design](https://en.wikipedia.org/wiki/Domain-driven_design)
 - [ ] Definir estrutura dos dados de autenticação
