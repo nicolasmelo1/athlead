@@ -36,3 +36,8 @@ Essas tarefas não serão realizadas necessariamente em ordem
     - [ ] Documentar como executar cada projeto individualmente.
 - [ ] Definir dominios do sistema utilizando-se dos conceitos de [Domain Driven Design](https://en.wikipedia.org/wiki/Domain-driven_design)
 - [ ] Definir estrutura dos dados de autenticação
+
+## Etapas do projeto
+Serão realizadas em ordem ou podem ter a ordem alterada ao longo do desenvolvimento do projeto. Essas etapas definem um objetivo Macro a ser concluido no projeto a fim de finalizá-lo.
+
+1 - Configurar o projeto e setar autenticação no sistema
