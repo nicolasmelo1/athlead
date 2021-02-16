@@ -108,3 +108,9 @@ dist
 
 # Visual Studio Code Files
 .vscode/
+
+# next.js files
+.next/*
+
+# expo files
+.expo/*

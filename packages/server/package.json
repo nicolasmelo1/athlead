@@ -7,7 +7,7 @@
     "start": "node src"
   },
   "author": "Nicolas Leal de Melo",
-  "license": "Apache License",
+  "license": "Apache-2.0",
   "dependencies": {
     "@hapi/hapi": "^20.1.0"
   }

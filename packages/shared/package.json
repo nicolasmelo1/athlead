@@ -1,0 +1,15 @@
+{
+  "name": "shared",
+  "version": "1.0.0",
+  "description": "The shared code between clients and server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Athlead",
+    "shared"
+  ],
+  "author": "Nicolas Leal de Melo",
+  "license": "Apache-2.0"
+}
