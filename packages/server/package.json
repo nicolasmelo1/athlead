@@ -1,0 +1,14 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "The server of athlead",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src"
+  },
+  "author": "Nicolas Leal de Melo",
+  "license": "Apache License",
+  "dependencies": {
+    "@hapi/hapi": "^20.1.0"
+  }
+}

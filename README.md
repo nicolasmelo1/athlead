@@ -15,7 +15,7 @@ Portanto, esse criador de aplicativos deve:
 3 - atender a maioria das necessidades das atléticas universitárias do país
 
 ## Ideação e possivel arquitetura do projeto
-O projeto será um monorepo lerna contendo: O backend feito em [express.js](https://expressjs.com/pt-br/), uma versão front-end web com [next.js](https://nextjs.org/), uma versão mobile em [react native](https://reactnative.dev/) e se tudo rolar tranquilamente, uma versão desktop feita com [electron.js](https://www.electronjs.org/)
+O projeto será um monorepo lerna contendo: O backend feito em [hapi.js](https://hapi.dev/), uma versão front-end web com [next.js](https://nextjs.org/), uma versão mobile em [react native](https://reactnative.dev/) e se tudo rolar tranquilamente, uma versão desktop feita com [electron.js](https://www.electronjs.org/)
 
 ## Tarefas a serem feitas
 Essas tarefas não serão realizadas necessariamente em ordem
@@ -27,7 +27,7 @@ Essas tarefas não serão realizadas necessariamente em ordem
     - [X] Instalar o lerna
     - [ ] Criar pasta `packages`
     - [ ] Linkar dependências
-- [ ] Configurar o ambiente de backend **Express.js**
+- [ ] Configurar o ambiente de backend **hapi.js**
 - [ ] Configurar o ambiente de front-end com **Next.js**
 - [ ] Configurar o ambiente de mobile com **React Native**
 - [ ] Configurar ambiente de código compartilhado entre o React Native e o Next.js
