@@ -18,6 +18,7 @@ O projeto será um monorepo lerna contendo: O backend feito em [express.js](http
 Essas tarefas não serão realizadas necessariamente em ordem
 
 - [X] Escrever uma documentação simples sobre o projeto
+- [ ] Escrever uma documentação mais aprofundada sobre o projeto, suas intenções e estrtutura
 - [ ] Configurar prettier
 - [ ] Configurar o ambiente lerna
     - [X] Instalar o lerna
