@@ -7,8 +7,11 @@ De acordo com [essa reportagem](https://www.terra.com.br/noticias/dino/profissio
 Com essa informação, creio que seria uma boa solução criar um criador de apps para atléticas. Com ele vamos oferecer tudo o que uma atlética precisa e/ou venha a precisar utilizando-se de tecnologias modernas e fáceis de aprender. Não só oferecer toda a base para que os alunos possam criar seus próprios aplicativos (sejam web, desktop ou mobile), queremos também contribuir para a disseminação de conteúdo e material de estudo para alunos de faculdade que desejam aprender os mais variados conceitos de programação, ciência de dados, e demais frentes.
 
 Portanto, esse criador de aplicativos deve:
+
 1 - ser fácil de manter
+
 2 - ser fácil de extender com novas funcionalidades
+
 3 - atender a maioria das necessidades das atléticas universitárias do país
 
 ## Ideação e possivel arquitetura do projeto
