@@ -17,15 +17,15 @@ O projeto será um monorepo lerna contendo: O backend feito em [express.js](http
 ## Tarefas a serem feitas
 Essas tarefas não serão realizadas necessariamente em ordem
 
-- [] Escrever uma documentação simples sobre o projeto
-- [] Configurar prettier
-- [] Configurar o ambiente lerna
-    - [] Instalar o lerna
-    - [] Criar pasta `packages`
-    - [] Linkar dependências
-- [] Configurar o ambiente de backend **Express.js**
-- [] Configurar o ambiente de front-end com **Next.js**
-- [] Configurar o ambiente de mobile com **React Native**
-- [] Configurar ambiente de código compartilhado entre o React Native e o Next.js
-- [] Definir dominios do sistema utilizando-se dos conceitos de [Domain Driven Design](https://en.wikipedia.org/wiki/Domain-driven_design)
-- [] Definir estrutura dos dados de autenticação
+- [X] Escrever uma documentação simples sobre o projeto
+- [ ] Configurar prettier
+- [ ] Configurar o ambiente lerna
+    - [X] Instalar o lerna
+    - [ ] Criar pasta `packages`
+    - [ ] Linkar dependências
+- [ ] Configurar o ambiente de backend **Express.js**
+- [ ] Configurar o ambiente de front-end com **Next.js**
+- [ ] Configurar o ambiente de mobile com **React Native**
+- [ ] Configurar ambiente de código compartilhado entre o React Native e o Next.js
+- [ ] Definir dominios do sistema utilizando-se dos conceitos de [Domain Driven Design](https://en.wikipedia.org/wiki/Domain-driven_design)
+- [ ] Definir estrutura dos dados de autenticação
